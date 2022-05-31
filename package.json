@@ -1,0 +1,32 @@
+{
+  "name": "canhome",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "check": "svelte-check --tsconfig ./tsconfig.json",
+    "deploy": "npm run build && powershell \"Copy-Item ./dist/index.html C:\\Users\\Mateus\\Downloads\\home -Force\" "
+
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.30",
+    "@tsconfig/svelte": "^2.0.1",
+    "svelte": "^3.44.0",
+    "svelte-check": "^2.2.7",
+    "svelte-preprocess": "^4.9.8",
+    "tslib": "^2.3.1",
+    "typescript": "^4.5.4",
+    "vite": "^2.8.0",
+    "vite-plugin-html": "^3.2.0",
+    "vite-plugin-singlefile": "^0.7.1"
+  },
+  "dependencies": {
+    "link-preview-generator": "^1.1.0",
+    "link-preview-js": "^2.1.13",
+    "re2": "^1.17.4",
+    "svelte-link-preview": "^0.3.3"
+  }
+}
