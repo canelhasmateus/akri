@@ -8,7 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "check": "svelte-check --tsconfig ./tsconfig.json",
-    "deploy": "npm run build && powershell \"Copy-Item ./dist/index.html C:\\Users\\Mateus\\Downloads\\home -Force\" "
+    "deploy": "npm run build"
 
   },
   "devDependencies": {
