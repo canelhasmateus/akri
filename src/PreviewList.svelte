@@ -32,7 +32,7 @@
 		display: grid;
 		margin: 0;
 		padding: 1%;
-		overflow-y: auto;
+		overflow-y: hidden;
 		overflow-x: visible;
 		box-sizing: border-box;
 	}
