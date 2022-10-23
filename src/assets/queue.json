@@ -1,552 +1,678 @@
 [
   {
-    "url": "http://jakevdp.github.io/blog/2014/08/22/hacking-academia",
-    "visit_date": "2020-01-01 00:00:00",
+    "url": "https://www.fastly.com/blog/measuring-quic-vs-tcp-computational-efficiency",
+    "visit_date": "2022-05-04 12:16:34",
     "visit_kind": "Queue",
-    "title": "Hacking Academia: Data Science and the University",
-    "duration": 1260,
-    "author": "Jake VanderPlas",
-    "date": "2009-08-06",
-    "image": "/images/Data_Science_VD.png",
-    "domain": "jakevdp.github.io"
+    "title": "Can QUIC match the computational efficiency of TCP? Our research says yes.",
+    "duration": 1080,
+    "date": "2020-04-30",
+    "image": null,
+    "domain": [
+      "www.fastly.com"
+    ],
+    "author": "Kazuho Oku Principal OSS Engineer"
   },
   {
-    "url": "https://medium.com/paypal-tech/application-of-graph-convolution-algorithms-at-paypal-321c433297d5?source=rss----6423323524ba---4",
+    "url": "https://candost.blog/systematic-approach-to-give-feedback-to-blame-absorbers/",
+    "visit_date": "2022-05-19 10:47:47",
+    "visit_kind": "Queue",
+    "title": "Systematic Approach to Give Feedback to Blame Absorbers",
+    "duration": 300,
+    "date": "2022-03-17",
+    "image": null,
+    "domain": [
+      "candost.blog"
+    ],
+    "author": "Candost Dagdeviren"
+  },
+  {
+    "url": "https://francisbach.com/matrix-monotony-and-convexity",
     "visit_date": "2020-01-01 00:00:00",
     "visit_kind": "Queue",
-    "title": "Application of Graph Convolution Algorithms at PayPal",
+    "title": "Playing with positive definite matrices \u2013 I: matrix monotony and convexity",
+    "duration": 960,
+    "date": "2022-02-17",
+    "image": null,
+    "domain": [
+      "francisbach.com"
+    ],
+    "author": "Francis Bach"
+  },
+  {
+    "url": "https://www.jeremyjordan.me/mobius",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "Lessons learned from attempting to launch a startup.",
     "duration": 420,
-    "author": "Venkatesh Ramanathan",
-    "date": "2021-10-18",
-    "image": "https://miro.medium.com/fit/c/32/32/1*Dw4-tOJ_9myFUywLd3qzjA.png",
-    "domain": "medium.com"
+    "date": "2018-05-09",
+    "image": "/content/images/size/w100/2018/03/headshot-small.jpeg",
+    "domain": [
+      "www.jeremyjordan.me"
+    ],
+    "author": "Jeremy Jordan"
   },
   {
-    "url": "https://towardsdatascience.com/beta-distribution-intuition-examples-and-derivation-cf00f4db57af",
+    "url": "https://www.anishathalye.com/2015/08/19/git-remote-dropbox",
     "visit_date": "2020-01-01 00:00:00",
     "visit_kind": "Queue",
-    "title": "Beta Distribution \u2014 Intuition, Examples, and Derivation",
-    "duration": 420,
-    "author": "Aerin Kim",
-    "date": "2020-07-30",
-    "image": "https://miro.medium.com/fit/c/32/32/1*CJe3891yB1A1mzMdqemkdg.jpeg",
-    "domain": "towardsdatascience.com"
-  },
-  {
-    "url": "https://www.coursera.org/learn/algorithms-greedy",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming",
+    "title": "git-remote-dropbox",
     "duration": 180,
-    "author": "www.coursera.org",
-    "date": "2020-03-10",
+    "date": "2015-08-19",
     "image": null,
-    "domain": "www.coursera.org"
+    "domain": [
+      "www.anishathalye.com"
+    ],
+    "author": [
+      "www.anishathalye.com"
+    ]
   },
   {
-    "url": "https://blog.johanneslink.net/2008/07/30/everyone-their-own-mock-framework",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "To Everyone Their Own Mock Framework",
-    "duration": 60,
-    "author": "Johannes Link",
-    "date": "2008-07-30",
-    "image": "/assets/johannes.jpg",
-    "domain": "blog.johanneslink.net"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=PKbxK2JH23Y",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "PHP include and bypass SSRF protection with two DNS A records - 33c3ctf list0r (web 400)",
-    "duration": 543,
-    "author": "http://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w",
-    "date": "2017-01-20",
-    "image": "https://i.ytimg.com/vi/PKbxK2JH23Y/maxresdefault.jpg",
-    "domain": "www.youtube.com"
-  },
-  {
-    "url": "https://stackoverflow.blog/2019/12/04/introducing-subject-matter-experts",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "Introducing Subject Matter Experts",
-    "duration": 120,
-    "author": "Lori Colston",
-    "date": "2019-12-04",
-    "image": "https://www.googleadservices.com/pagead/conversion/961466557/?guid=ON&script=0&random=926124933&url=https://stackoverflow.blog/2019/12/04/introducing-subject-matter-experts/",
-    "domain": "stackoverflow.blog"
-  },
-  {
-    "url": "https://www.depesz.com/2021/02/09/why-is-there-database-named-postgres",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "Why is there database named \u201cpostgres\u201d?",
-    "duration": 240,
-    "author": "www.depesz.com",
-    "date": "2021-02-09",
-    "image": null,
-    "domain": "www.depesz.com"
-  },
-  {
-    "url": "https://austingwalters.com/newtons-method-and-fractals",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "Newtons Method and Fractals",
-    "duration": 180,
-    "author": "Austin",
-    "date": "2014-03-17",
-    "image": "https://austingwalters.com/wp-content/uploads/2015/03/cropped-cropped-austin-walters1.png",
-    "domain": "austingwalters.com"
-  },
-  {
-    "url": "https://twiecki.io/blog/2013/08/27/bayesian-glms-2",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "This world is far from Normal(ly distributed): Bayesian Robust Regression in PyMC3",
-    "duration": 360,
-    "author": "Thomas Wiecki",
-    "date": "2013-08-27",
-    "image": null,
-    "domain": "twiecki.io"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=oJjkjkY6mmA",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "Statistics 101: Two Populations, t-test with Hypothesis",
-    "duration": 2038,
-    "author": "http://www.youtube.com/user/BCFoltz",
-    "date": "2014-03-02",
-    "image": "https://i.ytimg.com/vi/oJjkjkY6mmA/maxresdefault.jpg",
-    "domain": "www.youtube.com"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=18lQVYRJtoA",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "What is Dijkstra's Algorithm? - Easy Theory",
-    "duration": 918,
-    "author": "http://www.youtube.com/channel/UC3VY6RTXegnoSD_q446oBdg",
-    "date": "2021-08-19",
-    "image": "https://i.ytimg.com/vi/18lQVYRJtoA/hqdefault.jpg",
-    "domain": "www.youtube.com"
-  },
-  {
-    "url": "https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "Best practices for REST API design",
-    "duration": 1020,
-    "author": "John Au-Yeung; Ryan Donovan",
-    "date": "2020-03-02",
-    "image": "https://www.googleadservices.com/pagead/conversion/961466557/?guid=ON&script=0&random=306222379&url=https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/",
-    "domain": "stackoverflow.blog"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=nhwZn6v5vT0",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "Examples of Stateful vs Stateless web applications with Python",
-    "duration": 882,
-    "author": "http://www.youtube.com/user/GISIGeometry",
-    "date": "2019-07-07",
-    "image": "https://i.ytimg.com/vi/nhwZn6v5vT0/hqdefault.jpg",
-    "domain": "www.youtube.com"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=EEdcUvfw7os",
-    "visit_date": "2022-05-13 21:59:25",
-    "visit_kind": "Queue",
-    "title": "Floating Point (Comp. Org. 13)",
-    "duration": 505,
-    "author": "http://www.youtube.com/channel/UCYo9tz7kv64DZezarVlK9Gg",
-    "date": "2022-02-11",
-    "image": "https://i.ytimg.com/vi/EEdcUvfw7os/maxresdefault.jpg",
-    "domain": "www.youtube.com"
-  },
-  {
-    "url": "https://easyperf.net/blog/2016/11/21/Sentinels",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "Sentinels.",
-    "duration": 180,
-    "author": "Denis Bakhvalov",
-    "date": "2016-11-21",
-    "image": "/img/feed-icon.png",
-    "domain": "easyperf.net"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=qtaqvPAeEJY",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "Covariance, Clearly Explained!!!",
-    "duration": 1343,
-    "author": "http://www.youtube.com/user/joshstarmer",
-    "date": "2019-07-29",
-    "image": "https://i.ytimg.com/vi/qtaqvPAeEJY/maxresdefault.jpg",
-    "domain": "www.youtube.com"
-  },
-  {
-    "url": "https://codecraft.co/2013/03/08/3-reasons-to-prefer-references-over-pointers",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "3 reasons to prefer references over pointers (C++)",
-    "duration": 360,
-    "author": "Daniel Hardman",
-    "date": "2013-03-08",
-    "image": "https://i0.wp.com/imgs.xkcd.com/comics/compiler_complaint.png",
-    "domain": "codecraft.co"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=_eh1conN6YM",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "Control System Lectures - Bode Plots, Introduction",
-    "duration": 765,
-    "author": "http://www.youtube.com/user/ControlLectures",
-    "date": "2012-10-11",
-    "image": "https://i.ytimg.com/vi/_eh1conN6YM/maxresdefault.jpg",
-    "domain": "www.youtube.com"
-  },
-  {
-    "url": "https://towardsdatascience.com/advancing-machine-intelligence-why-context-is-everything-4bde90fb2d79",
-    "visit_date": "2022-05-12 07:52:59",
-    "visit_kind": "Queue",
-    "title": "Advancing Machine Intelligence: Why Context Is Everything",
-    "duration": 720,
-    "author": "Gadi Singer",
-    "date": "2022-05-10",
-    "image": "https://miro.medium.com/fit/c/32/32/1*CJe3891yB1A1mzMdqemkdg.jpeg",
-    "domain": "towardsdatascience.com"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=J6Vnn7aHYAk",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "How to create your own String interpolator in Scala | Rock the JVM",
-    "duration": 816,
-    "author": "http://www.youtube.com/channel/UCRS4DvO9X7qaqVYUW2_dwOw",
-    "date": "2020-05-12",
-    "image": "https://i.ytimg.com/vi/J6Vnn7aHYAk/maxresdefault.jpg",
-    "domain": "www.youtube.com"
-  },
-  {
-    "url": "https://www.pragmatic.ml/rims",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "Recurrent Independent Mechanisms",
-    "duration": 540,
-    "author": "Madison May",
-    "date": "2021-05-09",
-    "image": "https://www.pragmatic.ml/content/images/2020/01/Copy-of-machine-learning-musings-Logo--1--1.png",
-    "domain": "www.pragmatic.ml"
-  },
-  {
-    "url": "https://www.depesz.com/2008/04/16/do-you-know-crontab",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "do you know crontab?",
-    "duration": 60,
-    "author": "www.depesz.com",
-    "date": "2008-04-16",
-    "image": null,
-    "domain": "www.depesz.com"
-  },
-  {
-    "url": "https://golem.ph.utexas.edu/category/2020/01/codensity_monads.html",
+    "url": "https://golem.ph.utexas.edu/category/2018/09/plocal_group_theory.html",
     "visit_date": "2020-01-01 00:00:00",
     "visit_kind": "Queue",
     "title": "The n-Category Caf\u00e9",
-    "duration": 120,
-    "author": "golem.ph.utexas.edu",
-    "date": "2020-01-16",
+    "duration": 240,
+    "date": "2018-09-19",
     "image": "https://golem.ph.utexas.edu/~distler/blog/images/MathML.png",
-    "domain": "golem.ph.utexas.edu"
+    "domain": [
+      "golem.ph.utexas.edu"
+    ],
+    "author": [
+      "golem.ph.utexas.edu"
+    ]
   },
   {
-    "url": "https://engineering.fb.com/2016/08/31/core-data/myrocks-a-space-and-write-optimized-mysql-database",
+    "url": "https://www.math3ma.com/blog/ways-to-show-a-group-is-abelian",
     "visit_date": "2020-01-01 00:00:00",
     "visit_kind": "Queue",
-    "title": "MyRocks: A space- and write-optimized MySQL database",
-    "duration": 660,
-    "author": "Import User; Yoshinori Matsunobu",
-    "date": "2016-08-31",
-    "image": "https://engineering.fb.com/wp-content/uploads/2021/06/RiB_DeepGray.jpg?w=580&h=326&crop=1",
-    "domain": "engineering.fb.com"
-  },
-  {
-    "url": "https://blog.thecodewhisperer.com/permalink/injecting-dependencies-doesnt-have-to-hurt",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "Injecting dependencies doesn't have to hurt",
-    "duration": 120,
-    "author": "J B Rainsberger",
-    "date": "2010-12-04",
-    "image": "https://d33wubrfki0l68.cloudfront.net/75a893a87a9cdf5d1aa0569703ed0e7072f8a6a9/d0dde/images/cartoon-headshot-white-background.jpg",
-    "domain": "blog.thecodewhisperer.com"
-  },
-  {
-    "url": "https://eranraviv.com/marriage-is-good-for-your-income-logistic-regression",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "Marriage is good for your income",
-    "duration": 120,
-    "author": "eranraviv.com",
-    "date": "2012-04-29",
-    "image": "https://reconvolution.wpengine.com/wp-content/uploads/2016/12/white-logo.png",
-    "domain": "eranraviv.com"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=irheiVXJRm8",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "(ML 17.8) Smirnov transform (Inverse transform sampling) -  invertible case",
-    "duration": 889,
-    "author": "http://www.youtube.com/user/mathematicalmonk",
-    "date": "2011-07-18",
-    "image": "https://i.ytimg.com/vi/irheiVXJRm8/maxresdefault.jpg",
-    "domain": "www.youtube.com"
-  },
-  {
-    "url": "https://www.snoyman.com/blog/2018/12/fp-completes-opinion",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "FP Complete's opinion",
-    "duration": 180,
-    "author": "www.snoyman.com",
-    "date": "2018-12-12",
-    "image": null,
-    "domain": "www.snoyman.com"
-  },
-  {
-    "url": "http://trevorjim.com/thoughts-on-monkey-selfies",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "Thoughts on monkey selfies",
-    "duration": 120,
-    "author": "trevorjim.com",
-    "date": "2014-08-22",
-    "image": "/thoughts-on-monkey-selfies/monkey.jpg",
-    "domain": "trevorjim.com"
-  },
-  {
-    "url": "https://mrale.ph/blog/2011/11/05/the-trap-of-the-performance-sweet-spot.html",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "The trap of the performance sweet spot",
-    "duration": 600,
-    "author": "mrale.ph",
-    "date": "2013-03-28",
-    "image": "https://mrale.ph/s3/images/point-structure-c.png",
-    "domain": "mrale.ph"
-  },
-  {
-    "url": "https://blog.scottnonnenberg.com/take-breaks-dev-productivity-tip-6",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "Take breaks (Dev productivity tip #6)",
-    "duration": 420,
-    "author": "Scott Nonnenberg",
-    "date": "2021-12-12",
-    "image": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAEFAgME/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABuYazrBUYhcg//8QAGxAAAgIDAQAAAAAAAAAAAAAAAQIAAwQQETH/2gAIAQEAAQUCsJgXkHlgiAaZ2OSLnFE//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAHRAAAgEEAwAAAAAAAAAAAAAAAREAAhAhMQMSgf/aAAgBAQAGPwIAFOMVH02D1BjWrclLwEp3eRUrf//EAB0QAQADAAEFAAAAAAAAAAAAAAEAESFhEDFBUXH/2gAIAQEAAT8hN9Aji0XkIrDCVa7Ki/DrDAoCKZ10eol0Bo56f//aAAwDAQACAAMAAAAQEA88/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPxAf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPxAf/8QAHxABAQACAgEFAAAAAAAAAAAAAREAMSFhcRCBkcHR/9oACAEBAAE/EAb1N48BvfnEgapRvb8ykEoMusFmmj5+sM3QKIC4RmgmdHAynlfOKkmwEjDrr0//2Q==",
-    "domain": "blog.scottnonnenberg.com"
-  },
-  {
-    "url": "https://insights.factorresearch.com/research-factor-construction-portfolio-scenarios",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "FACTOR CONSTRUCTION: PORTFOLIO SCENARIOS - FactorResearch",
+    "title": "Ways to Show a Group is Abelian",
     "duration": 60,
-    "author": "insights.factorresearch.com",
-    "date": null,
-    "image": "/images/FactoResearchLogo.png",
-    "domain": "insights.factorresearch.com"
+    "date": "2015-02-09",
+    "image": "https://uploads-ssl.webflow.com/5b1d427ae0c922e912eda447/5b43bc7200175d182f03364d_Ways%20to%20Show%20Abelian.jpg",
+    "domain": [
+      "www.math3ma.com"
+    ],
+    "author": [
+      "www.math3ma.com"
+    ]
   },
   {
-    "url": "https://www.youtube.com/watch?v=vtXEGBQhUgU",
+    "url": "https://engineeringblog.yelp.com/2020/07/ML-platform-overview.html",
     "visit_date": "2020-01-01 00:00:00",
     "visit_kind": "Queue",
-    "title": "What is a regular language? + Examples",
-    "duration": 454,
-    "author": "http://www.youtube.com/channel/UC3VY6RTXegnoSD_q446oBdg",
-    "date": "2021-07-01",
-    "image": "https://i.ytimg.com/vi/vtXEGBQhUgU/maxresdefault.jpg",
-    "domain": "www.youtube.com"
-  },
-  {
-    "url": "http://trevorjim.com/parsing-is-the-weakest-link",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "Parsing is the weakest link",
-    "duration": 120,
-    "author": "trevorjim.com",
-    "date": "2012-08-09",
-    "image": null,
-    "domain": "trevorjim.com"
-  },
-  {
-    "url": "https://www.beyondjava.net/reactive-programming-primer",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "Beyond Java",
-    "duration": 60,
-    "author": "www.beyondjava.net",
-    "date": null,
-    "image": null,
-    "domain": "www.beyondjava.net"
-  },
-  {
-    "url": "https://statmodeling.stat.columbia.edu/wp-content/uploads/2015/12/1512.00933.pdf",
-    "visit_date": "2022/06/16 11:55:28",
-    "visit_kind": "Queue",
-    "title": "",
-    "duration": 6000,
-    "author": "statmodeling.stat.columbia.edu",
-    "date": "D:20151204012254Z",
-    "image": null,
-    "domain": "statmodeling.stat.columbia.edu"
-  },
-  {
-    "url": "https://blog.ephorie.de/kalman-filter-as-a-form-of-bayesian-updating",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "Kalman Filter as a Form of Bayesian Updating",
-    "duration": 180,
-    "author": "Author Learning Machines",
-    "date": "2020-07-07",
-    "image": "https://blog.ephorie.de/wp-content/uploads/2019/02/cropped-teacher-2714183_1920_cropped-4.jpg",
-    "domain": "blog.ephorie.de"
-  },
-  {
-    "url": "https://blog.thecodewhisperer.com/permalink/no-more-boilerplate-code",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "No More Boilerplate Code",
-    "duration": 1620,
-    "author": "J B Rainsberger",
-    "date": "2016-10-09",
-    "image": "https://d33wubrfki0l68.cloudfront.net/75a893a87a9cdf5d1aa0569703ed0e7072f8a6a9/d0dde/images/cartoon-headshot-white-background.jpg",
-    "domain": "blog.thecodewhisperer.com"
-  },
-  {
-    "url": "https://nuit-blanche.blogspot.com/2019/05/on-random-deep-weight-tied-autoencoders.html",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "On Random Deep Weight-Tied Autoencoders: Exact Asymptotic Analysis, Phase Transitions, and Implications to Training",
-    "duration": 180,
-    "author": "Igor",
-    "date": "2019-05-17",
-    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha3I3HJb2U1RBn2AOONJZKUJCP9j2OjmMtpYbhksxKE3dCIPSL95DTRiRP-XkJFeWsvhwi2uTOkC0uUCyQpeE_7OHqgG9NPwpylmjpeJ30fuoHMx0eUvJ5Ln5LFFHErZJBA=s0-d",
-    "domain": "nuit-blanche.blogspot.com"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=UDHcn_1XneI",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "Statistics 101: Nonlinear Regression, The Quadratic Model",
-    "duration": 726,
-    "author": "http://www.youtube.com/user/BCFoltz",
-    "date": "2018-05-27",
-    "image": "https://i.ytimg.com/vi/UDHcn_1XneI/maxresdefault.jpg",
-    "domain": "www.youtube.com"
-  },
-  {
-    "url": "https://shopify.engineering/sharing-developer-context",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "Three Ways We Share Context at Shopify Engineering",
-    "duration": 600,
-    "author": "shopify.engineering",
-    "date": "2021-05-13",
-    "image": null,
-    "domain": "shopify.engineering"
-  },
-  {
-    "url": "https://lakefs.io/chaos-data-engineering",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "Chaos Data Engineering",
-    "duration": 360,
-    "author": "Oz Katz",
-    "date": "2020-11-17",
-    "image": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%2035'%3E%3C/svg%3E",
-    "domain": "lakefs.io"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=gd_wapDL0V0&t=720s",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "Neovim - Plugin Deep Dive, Lazyloading, Autoinstall, 100% Lua with Packer.nvim",
-    "duration": 1712,
-    "author": "http://www.youtube.com/channel/UCS97tchJDq17Qms3cux8wcA",
-    "date": "2021-12-20",
-    "image": "https://i.ytimg.com/vi/gd_wapDL0V0/maxresdefault.jpg",
-    "domain": "www.youtube.com"
-  },
-  {
-    "url": "https://alphascientist.com/shorting_as_signal.html",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "Listening to the Short Sellers",
-    "duration": 1380,
-    "author": "Author Chad Gray",
-    "date": "2018-08-21",
-    "image": "images/Short-Sales.jpg",
-    "domain": "alphascientist.com"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=j0NWlYTmalI",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "3 New Ways to Crash your NodeJS Server, Update Node JS today! (Feb 2021 Security Update)",
-    "duration": 607,
-    "author": "http://www.youtube.com/user/GISIGeometry",
-    "date": "2021-02-24",
-    "image": "https://i.ytimg.com/vi/j0NWlYTmalI/hqdefault.jpg",
-    "domain": "www.youtube.com"
-  },
-  {
-    "url": "https://quantstart.com/articles/Digital-option-pricing-with-C-via-Monte-Carlo-methods",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "Digital option pricing with C++ via Monte Carlo methods",
-    "duration": 300,
-    "author": "quantstart.com",
-    "date": "2022-01-01",
-    "image": "/static/images/qsalpha-sidebar-advert-small.png",
-    "domain": "quantstart.com"
-  },
-  {
-    "url": "https://quantstart.com/articles/European-vanilla-option-pricing-with-C-and-analytic-formulae",
-    "visit_date": "2020-01-01 00:00:00",
-    "visit_kind": "Queue",
-    "title": "European vanilla option pricing with C++ and analytic formulae",
+    "title": "Engineering",
     "duration": 540,
-    "author": "quantstart.com",
-    "date": "2022-01-01",
-    "image": "/static/images/qsalpha-sidebar-advert-small.png",
-    "domain": "quantstart.com"
+    "date": "2020-07-01",
+    "image": "/images/authors/darwin.png",
+    "domain": [
+      "engineeringblog.yelp.com"
+    ],
+    "author": [
+      "engineeringblog.yelp.com"
+    ]
   },
   {
-    "url": "https://cloudsecdocs.com",
-    "visit_date": "2020-01-01 00:00:00",
+    "url": "https://en.wikipedia.org/wiki/Active_learning",
+    "visit_date": "2022-04-29 18:08:31",
     "visit_kind": "Queue",
-    "title": "Home | CloudSecDocs",
-    "duration": 120,
-    "author": "Marco Lancini",
-    "date": "2020-01-01",
-    "image": "https://assets.marcolancini.it/hotlink-ok/cloudsecdocs/v2/logo/transparent-dark-cropped.png",
-    "domain": "cloudsecdocs.com"
+    "title": "Active learning - Wikipedia",
+    "duration": 2040,
+    "date": "2004-01-28",
+    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Unterricht.jpg/220px-Unterricht.jpg",
+    "domain": [
+      "en.wikipedia.org"
+    ],
+    "author": "Authority control National libraries Germany Israel United States"
   },
   {
-    "url": "https://bjlkeng.github.io/posts/accessible-satisfiability",
+    "url": "https://slack.engineering/on-empathy-pull-requests",
     "visit_date": "2020-01-01 00:00:00",
     "visit_kind": "Queue",
-    "title": "Accessible Satisfiability",
+    "title": "On Empathy & Pull Requests - Slack Engineering",
+    "duration": 300,
+    "date": "2016-02-17",
+    "image": "https://slack.engineering/wp-content/uploads/sites/7/2020/05/cropped-slack-engineering-1.png",
+    "domain": [
+      "slack.engineering"
+    ],
+    "author": "Slack Engineering"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=vjlmHLfv1FU",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "BIR.17 Modelling term frequency",
+    "duration": 192,
+    "date": "2015-09-18",
+    "image": "https://i.ytimg.com/vi/vjlmHLfv1FU/hqdefault.jpg",
+    "domain": [
+      "www.youtube.com"
+    ],
+    "author": "http://www.youtube.com/user/victorlavrenko"
+  },
+  {
+    "url": "https://dm13450.github.io/2018/05/30/Clustering.html",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "Clustering with Dirichlet Processes",
+    "duration": 240,
+    "date": "2018-05-30",
+    "image": "/assets/clustering_files/figure-markdown_github/unnamed-chunk-1-1.png",
+    "domain": [
+      "dm13450.github.io"
+    ],
+    "author": "Dean Markwick"
+  },
+  {
+    "url": "https://www.chrisstucchio.com/blog/2016/concurrent_bloom_filter.html",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "Concurrent bloom filters",
+    "duration": 300,
+    "date": "2016-05-30",
+    "image": null,
+    "domain": [
+      "www.chrisstucchio.com"
+    ],
+    "author": [
+      "www.chrisstucchio.com"
+    ]
+  },
+  {
+    "url": "https://baturin.org/blog/implementing-sets-with-functions-alone",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "Implementing sets with functions alone",
+    "duration": 240,
+    "date": "2018-04-12",
+    "image": null,
+    "domain": [
+      "baturin.org"
+    ],
+    "author": [
+      "baturin.org"
+    ]
+  },
+  {
+    "url": "https://www.depesz.com/2012/11/20/window-window-on-the-wall",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "Window, window on the wall \u2026",
+    "duration": 960,
+    "date": "2012-11-20",
+    "image": null,
+    "domain": [
+      "www.depesz.com"
+    ],
+    "author": [
+      "www.depesz.com"
+    ]
+  },
+  {
+    "url": "https://notstatschat.rbind.io/2018/03/13/why-pairwise-likelihood",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "Why pairwise likelihood? - Biased and Inefficient",
+    "duration": 180,
+    "date": "2018-03-13",
+    "image": null,
+    "domain": [
+      "notstatschat.rbind.io"
+    ],
+    "author": [
+      "notstatschat.rbind.io"
+    ]
+  },
+  {
+    "url": "https://engineering.linkedin.com/blog/2019/05/introducing-data-compaction-in-ambry",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "Introducing data compaction in Ambry",
     "duration": 1080,
-    "author": "Brian Keng",
-    "date": "2015-10-03",
-    "image": "../../images/decision_problem.png",
-    "domain": "bjlkeng.github.io"
+    "date": "2019-05-08",
+    "image": "/content/dam/engineering/site-assets/images/blog/authors/g/gopal_h.jpeg",
+    "domain": [
+      "engineering.linkedin.com"
+    ],
+    "author": "Gopalakrishna Holla"
+  },
+  {
+    "url": "https://blog.reverberate.org/2016/11/07/introducing-bloaty-mcbloatface.html",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "Introducing Bloaty McBloatface: a size profiler for binaries",
+    "duration": 540,
+    "date": "2016-11-07",
+    "image": null,
+    "domain": [
+      "blog.reverberate.org"
+    ],
+    "author": "Haberman"
+  },
+  {
+    "url": "https://blog.heroku.com/clocksource-tuning",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "Making Time to Save You Time: How We Sped Up Time-Related Syscalls on Dynos",
+    "duration": 240,
+    "date": "2020-07-16",
+    "image": "//blog-assets1.herokucdn.com/assets/icons/edit-reject-28-3da3409e989d8f9cb5d90fd1e1e6a6dd2c0a79cae53bd447ed3f291f4ab17964.svg",
+    "domain": [
+      "blog.heroku.com"
+    ],
+    "author": "Will Farrington"
+  },
+  {
+    "url": "https://blog.ephorie.de/cupids-arrow-how-to-boost-your-chances-at-speed-dating",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "Cupid\u2019s Arrow: How to Boost your Chances at Speed Dating!",
+    "duration": 420,
+    "date": "2021-03-16",
+    "image": "https://blog.ephorie.de/wp-content/uploads/2019/02/cropped-teacher-2714183_1920_cropped-4.jpg",
+    "domain": [
+      "blog.ephorie.de"
+    ],
+    "author": "Author Learning Machines"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=hEoV_FjtWhE",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "Traefik is too complex and hard to understand... let us discuss",
+    "duration": 953,
+    "date": "2020-08-06",
+    "image": "https://i.ytimg.com/vi/hEoV_FjtWhE/hqdefault.jpg",
+    "domain": [
+      "www.youtube.com"
+    ],
+    "author": "http://www.youtube.com/user/GISIGeometry"
+  },
+  {
+    "url": "https://austingwalters.com/introduction-to-markov-processes",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "Markov Processes (a.k.a. Markov Chains), an Introduction",
+    "duration": 240,
+    "date": "2014-04-20",
+    "image": "https://austingwalters.com/wp-content/uploads/2015/03/cropped-cropped-austin-walters1.png",
+    "domain": [
+      "austingwalters.com"
+    ],
+    "author": "Austin"
+  },
+  {
+    "url": "https://codecraft.co/2014/07/16/lacunas-everywhere",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "Lacunas Everywhere",
+    "duration": 600,
+    "date": "2014-07-16",
+    "image": "https://farm5.staticflickr.com/4113/5080987526_cdbf30487f_z_d.jpg",
+    "domain": [
+      "codecraft.co"
+    ],
+    "author": "Daniel Hardman"
+  },
+  {
+    "url": "https://dataskeptic.com/blog/episodes/2015/multi-armed-bandit-problems",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "[MINI] Multi-armed Bandit Problems",
+    "duration": 60,
+    "date": "2015-10-02",
+    "image": "https://ssl-static.libsyn.com/p/assets/c/2/b/6/c2b6b178136434c4/bandit.png",
+    "domain": [
+      "dataskeptic.com"
+    ],
+    "author": [
+      "dataskeptic.com"
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Fq9chEBQMFE",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "What if I try to malloc WAY too much memory?",
+    "duration": 272,
+    "date": "2019-02-26",
+    "image": "https://i.ytimg.com/vi/Fq9chEBQMFE/maxresdefault.jpg",
+    "domain": [
+      "www.youtube.com"
+    ],
+    "author": "http://www.youtube.com/user/jms36086"
+  },
+  {
+    "url": "https://fa.bianp.net/tag/convergence-analysis.html",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "fa.bianp.net",
+    "duration": 60,
+    "date": "2018-11-17",
+    "image": null,
+    "domain": [
+      "fa.bianp.net"
+    ],
+    "author": "Fabian Pedregosa"
+  },
+  {
+    "url": "https://www.academia.edu/8402175/Assessing_Comparing_and_Combining_Statechart_based_testing_and_Structural_testing_An_Experiment?email_work_card=title",
+    "visit_date": "2022-05-15 22:08:44",
+    "visit_kind": "Queue",
+    "title": "Assessing, Comparing, and Combining Statechart- based testing and Structural testing: An Experiment",
+    "duration": 60,
+    "date": "2007-01-01",
+    "image": "//a.academia-assets.com/assets/academia-logo-redesign-2015-A-971495bd31377b9367f5ce5ca92bbc27dd8a843db989cbce3408389c670b62c0.svg",
+    "domain": [
+      "www.academia.edu"
+    ],
+    "author": "Samar Mouchawrab"
+  },
+  {
+    "url": "https://www.pragmatic.ml/large-memory-layers-with-product-keys",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "Large Memory Layers with Product Keys",
+    "duration": 720,
+    "date": "2020-05-17",
+    "image": "https://www.pragmatic.ml/content/images/2020/01/Copy-of-machine-learning-musings-Logo--1--1.png",
+    "domain": [
+      "www.pragmatic.ml"
+    ],
+    "author": "Madison May"
+  },
+  {
+    "url": "https://towardsdatascience.com/the-sampling-nomogram-simply-explained-241fef902a89",
+    "visit_date": "2022/06/17 07:50:08",
+    "visit_kind": "Queue",
+    "title": "The Sampling Nomogram, Simply Explained",
+    "duration": 60,
+    "date": "2022-06-17",
+    "image": "https://miro.medium.com/fit/c/32/32/1*CJe3891yB1A1mzMdqemkdg.jpeg",
+    "domain": [
+      "towardsdatascience.com"
+    ],
+    "author": "Fouad Faraj"
+  },
+  {
+    "url": "https://timvieira.github.io/blog/post/2014/10/06/kl-divergence-as-an-objective-function",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "KL-divergence as an objective function",
+    "duration": 300,
+    "date": "2014-10-06",
+    "image": "http://timvieira.github.io/blog/images/KL-inclusive-exclusive.png",
+    "domain": [
+      "timvieira.github.io"
+    ],
+    "author": "Tim Vieira"
+  },
+  {
+    "url": "https://austingwalters.com/intelligence-quotient-iq-a-guide-to-improvement",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "The Intelligence Quotient (IQ) - Guide to Improvement - Austin G. Walters",
+    "duration": 1140,
+    "date": "2014-06-23",
+    "image": "https://austingwalters.com/wp-content/uploads/2015/03/cropped-cropped-austin-walters1.png",
+    "domain": [
+      "austingwalters.com"
+    ],
+    "author": "Austin"
+  },
+  {
+    "url": "https://www.allendowney.com/blog/2021/05/03/simpsons-paradox-and-age-effects",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "Simpson\u2019s Paradox and Age Effects",
+    "duration": 240,
+    "date": "2021-05-03",
+    "image": null,
+    "domain": [
+      "www.allendowney.com"
+    ],
+    "author": "AllenDowney"
+  },
+  {
+    "url": "https://www.math3ma.com/blog/stone-weierstrass-theorem",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "Stone Weierstrass Theorem",
+    "duration": 360,
+    "date": "2015-06-30",
+    "image": "https://uploads-ssl.webflow.com/5b1d427ae0c922e912eda447/5b43b89446e85d0d46a13f63_SWT.jpg",
+    "domain": [
+      "www.math3ma.com"
+    ],
+    "author": [
+      "www.math3ma.com"
+    ]
+  },
+  {
+    "url": "https://github.com/twitter/SentenTree",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "GitHub - twitter/SentenTree: A novel text visualization technique",
+    "duration": 60,
+    "date": "2014-01-01",
+    "image": "https://raw.githubusercontent.com/twitter/SentenTree/master/images/SentenTree.png",
+    "domain": [
+      "github.com"
+    ],
+    "author": "Twitter"
+  },
+  {
+    "url": "https://developers.soundcloud.com/blog/leveraging-frameworks-to-speed-up-our-development-on-ios-part-1",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "Leveraging frameworks to speed up our development on iOS - Part 1",
+    "duration": 480,
+    "date": "2017-10-16",
+    "image": "/blog/static/8036afa4de908d212e78fd25f6bbbadf/8ff1e/ios-example-app.png",
+    "domain": [
+      "developers.soundcloud.com"
+    ],
+    "author": [
+      "developers.soundcloud.com"
+    ]
+  },
+  {
+    "url": "https://codecraft.co/2012/10/30/tech-debt-leverage-and-grandmas-envelope",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "Tech Debt, Leverage, and Grandma\u2019s Envelope",
+    "duration": 300,
+    "date": "2012-10-30",
+    "image": "https://techknowledgeme.files.wordpress.com/2012/10/screen-shot-2013-02-01-at-8-20-20-am.png?w=646",
+    "domain": [
+      "codecraft.co"
+    ],
+    "author": "Daniel Hardman"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ajy1PHWYeyQ",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "Writing a simple Program in Python - bin 0x03",
+    "duration": 588,
+    "date": "2015-12-21",
+    "image": "https://i.ytimg.com/vi/ajy1PHWYeyQ/maxresdefault.jpg",
+    "domain": [
+      "www.youtube.com"
+    ],
+    "author": "http://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w"
+  },
+  {
+    "url": "https://engineering.linkedin.com/blog/2019/serving-dependencies-at-scale",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "Who Depends On Me? Serving Dependency Queries at Scale",
+    "duration": 600,
+    "date": "2019-08-08",
+    "image": "/content/dam/engineering/site-assets/images/blog/authors/y/yli4.jpeg",
+    "domain": [
+      "engineering.linkedin.com"
+    ],
+    "author": "Yu Li"
+  },
+  {
+    "url": "http://www.gaussianprocess.org/gpml/chapters/RW.pdf",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "Gaussian Processes for Machine Learning",
+    "duration": 33480,
+    "date": "",
+    "image": null,
+    "domain": [
+      "www.gaussianprocess.org"
+    ],
+    "author": "Carl Edward Rasmussen and Christopher K. I. Williams"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=MMm0I2Dj51A",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "Identifying another exploit mitigation and find bypass. stack0: part 2 - bin 0x22",
+    "duration": 576,
+    "date": "2017-07-14",
+    "image": "https://i.ytimg.com/vi/MMm0I2Dj51A/maxresdefault.jpg",
+    "domain": [
+      "www.youtube.com"
+    ],
+    "author": "http://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w"
+  },
+  {
+    "url": "https://www.chrisstucchio.com/blog/2014/assorted_links_oct_13_2014.html",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "Assorted links",
+    "duration": 300,
+    "date": "2014-10-13",
+    "image": null,
+    "domain": [
+      "www.chrisstucchio.com"
+    ],
+    "author": [
+      "www.chrisstucchio.com"
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=VxjfI7vkjhU",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "Deep learning survival analysis for consumer credit risk modelling - Jiahang Zhong, PhD",
+    "duration": 1851,
+    "date": "2020-08-11",
+    "image": "https://i.ytimg.com/vi/VxjfI7vkjhU/maxresdefault.jpg",
+    "domain": [
+      "www.youtube.com"
+    ],
+    "author": "http://www.youtube.com/channel/UCDS20hpBFiv_Kdp5Ibh0vew"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=3IEAfyQqUKc",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "WHY YOUR HACKING QUESTIONS ARE FRUSTRATING!!!",
+    "duration": 732,
+    "date": "2019-12-07",
+    "image": "https://i.ytimg.com/vi/3IEAfyQqUKc/maxresdefault.jpg",
+    "domain": [
+      "www.youtube.com"
+    ],
+    "author": "http://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=CGsvq_eAJYo",
+    "visit_date": "2022/08/19 12:02:06",
+    "visit_kind": "Queue",
+    "title": "The most beautiful function in Math: Sinc (3B1B Summer of Math Exposition #SoME2)",
+    "duration": 484,
+    "date": "2022-06-22",
+    "image": "https://i.ytimg.com/vi/CGsvq_eAJYo/maxresdefault.jpg",
+    "domain": [
+      "www.youtube.com"
+    ],
+    "author": "http://www.youtube.com/user/RoguePianistTetsuo"
+  },
+  {
+    "url": "https://stackoverflow.blog/2021/06/09/using-low-code-tools-to-iterate-products-faster",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "Using low-code tools to iterate products faster",
+    "duration": 780,
+    "date": "2021-06-09",
+    "image": "https://www.googleadservices.com/pagead/conversion/961466557/?guid=ON&script=0&random=730096257&url=https://stackoverflow.blog/2021/06/09/using-low-code-tools-to-iterate-products-faster/",
+    "domain": [
+      "stackoverflow.blog"
+    ],
+    "author": "Karl Hughes"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=gXdisQwnGc8",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "Can you outperform this website? | Devtooling Hacker News",
+    "duration": 1286,
+    "date": "2022-02-10",
+    "image": "https://i.ytimg.com/vi/gXdisQwnGc8/hqdefault.jpg",
+    "domain": [
+      "www.youtube.com"
+    ],
+    "author": "http://www.youtube.com/user/GISIGeometry"
+  },
+  {
+    "url": "https://tcsmath.wordpress.com/2015/06/17/entropy-optimality-changs-lemma",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "Entropy optimality: Chang\u2019s Lemma",
+    "duration": 300,
+    "date": "2015-06-17",
+    "image": "https://s0.wp.com/latex.php?latex=%7Bn+%5Cgeq+1%7D+&bg=FFFFFF&fg=000000&s=0&c=20201002",
+    "domain": [
+      "tcsmath.wordpress.com"
+    ],
+    "author": "James"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=cQdlV_IYPAY",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "Structure and Interpretation of Computer Programs - Chapter 3.5 Part 2",
+    "duration": 1415,
+    "date": "2020-08-30",
+    "image": "https://i.ytimg.com/vi/cQdlV_IYPAY/maxresdefault.jpg",
+    "domain": [
+      "www.youtube.com"
+    ],
+    "author": "http://www.youtube.com/channel/UC1kBxkk2bcG78YBX7LMl9pQ"
+  },
+  {
+    "url": "https://www.amazon.com.br/Hands-Design-Patterns-Julia-comprehensive/dp/183864881X",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "Hands-On Design Patterns and Best Practices with Julia: Proven solutions to common problems in software design for Julia 1.x Capa comum \u2013 17 janeiro 2020",
+    "duration": 360,
+    "date": "2016-09-13",
+    "image": "//fls-na.amazon.com.br/1/batch/1/OP/A2Q3Y263D00KWC:146-5782341-2102220:6PEH22YG12HNNHNAC3TW$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3D6PEH22YG12HNNHNAC3TW:0",
+    "domain": [
+      "www.amazon.com.br"
+    ],
+    "author": "Tom Kwong"
+  },
+  {
+    "url": "https://alvarezquanttrading.com/blog/sp-500-seasonality",
+    "visit_date": "2020-01-01 00:00:00",
+    "visit_kind": "Queue",
+    "title": "SP-500 Seasonality",
+    "duration": 240,
+    "date": "2022-01-12",
+    "image": "https://alvarezquanttrading.com/wp-content/uploads/2015/07/AQTLogo400.png",
+    "domain": [
+      "alvarezquanttrading.com"
+    ],
+    "author": [
+      "alvarezquanttrading.com"
+    ]
   }
 ]
